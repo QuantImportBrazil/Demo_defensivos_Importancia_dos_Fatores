@@ -14,11 +14,11 @@ O aprendizado de máquina (ML) não só emite as previsões, mas também nos per
 
 Para demonstrar essa capacidade, selecionamos a previsão que apresentou a maior variação em relação ao ano anterior:
 
-* Produto SH4 3102 — Município de Rondonópolis-MT — de 09/2025 para 09/2026.
+* Produto SH4 3808 — Município de Paulínia-SP — de 01/2025 para 01/2026.
 
 Essa **variação significativa** pode ser observada no gráfico a seguir:
 
-![Gráfico de Previsão](3102.png)
+![Gráfico de Previsão](3808.png)
 
 Nas referidas datas, note que:  
 * Na **primeira data** a importação **projetada** foi **menor** que a importação **real**.  
