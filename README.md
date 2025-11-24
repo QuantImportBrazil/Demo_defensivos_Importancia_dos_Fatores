@@ -14,20 +14,18 @@ O aprendizado de máquina (ML) não só emite as previsões, mas também nos per
 
 Para demonstrar essa capacidade, selecionamos a previsão que apresentou a maior variação em relação ao ano anterior:
 
-* Produto SH4 3808 — Município de Paulínia-SP — de 01/2025 para 01/2026.
+* Produto SH4 3808 — Município de Paulínia-SP — de 01/2025 para 01/2026: Alta de 7.5 para quase 15 kt de produto, aproximadamente 100%.
 
-Essa **variação significativa** pode ser observada no gráfico a seguir:
+Essa **alta significativa** pode ser observada no gráfico a seguir:
 
 ![Gráfico de Previsão](3808.png)
 
-Nas referidas datas, note que:  
-* Na **primeira data** a importação **projetada** foi **menor** que a importação **real**.  
-* Mesmo assim, para a **segunda data** a projeção foi **ainda menor** em 50 mil toneladas aproximadamente.
+Para fazer as previsões, o ML considera múltiplos fatores, como exportações agrícolas, importações desse mesmo produto e de outros em diferentes municípios, clima, etc, mas, desta vez, o fator apontado como o mais importante para essa referida alta foi a alta na importação do mesmo produto no mesmo município, porém ocorrida no mês de 09/2024 em relação a 09/2023, detalhada no quadro a segur:
 
-A razão apontada pelo ML para essa redução **aparentemente contraditória** foi uma determinada **queda na exportação**, detalhada no quadro abaixo:  
-
-#### Exportação:
+#### Importação:
 ![Fator mais Importante](fator_mais_importante.png)  
+
+Em outras situações poderemos ver fatores muito mais inesperados, mas dessa vez foi isso!
 
 ---
 
