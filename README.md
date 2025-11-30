@@ -18,7 +18,7 @@ Para demonstrar essa capacidade, selecionamos a previsão que apresentou a maior
 
 Essa **alta significativa** pode ser observada no gráfico a seguir:
 
-![Gráfico de Previsão](3808.png)
+![Gráfico de Previsão](download.png)
 
 Para fazer as previsões, o ML considera múltiplos fatores, como exportações agrícolas, importações desse mesmo produto e de outros em diferentes municípios, clima, etc, mas, desta vez, o fator apontado como o mais importante para essa referida alta foi a alta na importação do mesmo produto no mesmo município, porém ocorrida no mês de 09/2025 em relação a 09/2024, detalhada no quadro a seguir:
 
