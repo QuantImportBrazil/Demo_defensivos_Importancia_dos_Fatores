@@ -12,18 +12,18 @@ O aprendizado de máquina (*Machine Learning*) não apenas gera previsões, mas 
 
 Para demonstrar essa capacidade, selecionamos a projeção que apresentou a variação mais expressiva em relação ao período anterior:
 
-* **Produto:** Nitrogenados
-* **Município:** Paranaguá - PR
-* **Período Comparado:** 09/2025 vs. 09/2026
+* **Produto:**Insecticidas, rodenticidas, fungicidas, herbic...(SH4=3808)
+* **Município:** Paulínia - SP
+* **Período Comparado:** 03/2025 vs. 03/2026
 
 Essa **variação significativa** pode ser observada no gráfico abaixo:
 
-![Gráfico de Previsão](Paranaguá_Nitrogenados1.png)  
+![Gráfico de Previsão](Paulínia_Insecticidas, rodenticidas, fungicidas, herbicidas...1.png)  
 
 **Análise das projeções:**  
-* A previsão realizada em **Dez/24** para desembarque em **Set/25** foi de **110 kt**.  
-* A previsão realizada em **Dez/25** para desembarque em **Set/26** saltou para **156 kt**.  
-* Representa um aumento de **46 kt**, um crescimento **superior a 40%** de um ano para o outro.
+* A previsão realizada em **Dez/24** para desembarque em **Mar/25** foi de **9 kt**.  
+* A previsão realizada em **Dez/25** para desembarque em **Mar/26** saltou para **14 kt**.  
+* Representa um aumento de **5 kt**, um crescimento **superior a 55%** de um ano para o outro.
 
 > **Diagnóstico do Modelo:**
 > O fator determinante apontado pelo modelo para essa variação foi a **queda acentuada na importação** do mesmo grupo de produtos no **Estado de São Paulo em Set/2025**, conforme ilustrado abaixo:
