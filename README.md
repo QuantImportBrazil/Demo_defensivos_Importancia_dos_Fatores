@@ -1,34 +1,40 @@
-# <img src="logo.png" alt="Logo QuantImport" width="70"> [QuantImport](https://quantimportbrazil.github.io/Sobre/)
+# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport 🎄✨  
+
+**[Home](https://quantimportbrazil.github.io/Sobre/)** | **[Voltar para Demos](https://quantimportbrazil.github.io/Demo/)**
 
 ---
 
-# Fator mais Importante - Exemplo
+# Fator mais Importante — Exemplo
 
-> **Emissão:** 11 / 2025  
+> **Emissão:** 12 / 2025  
 
----
+O aprendizado de máquina (*Machine Learning*) não apenas gera previsões, mas também permite ranquear a importância dos fatores que as influenciam.
 
-**[Home](https://quantimportbrazil.github.io/Sobre/)**  
+Para demonstrar essa capacidade, selecionamos a projeção que apresentou a variação mais expressiva em relação ao período anterior:
 
-O aprendizado de máquina (ML) não só emite as previsões, mas também nos permite ranquear a importância dos fatores que as afetam.
+* **Produto:** Nitrogenados
+* **Município:** Paranaguá - PR
+* **Período Comparado:** 09/2025 vs. 09/2026
 
-Para demonstrar essa capacidade, selecionamos a previsão que apresentou a maior variação em relação ao ano anterior:
+Essa **variação significativa** pode ser observada no gráfico abaixo:
 
-* Produto SH4 3808 — Município de Paulínia-SP — de 01/2025 para 01/2026: Alta de 8 para quase 15 kt de produto.
+![Gráfico de Previsão](Paranaguá_Nitrogenados1.png)  
 
-Essa **alta significativa** pode ser observada no gráfico a seguir:
+**Análise das projeções:**  
+* A previsão realizada em **Dez/24** para desembarque em **Set/25** foi de **110 kt**.  
+* A previsão realizada em **Dez/25** para desembarque em **Set/26** saltou para **156 kt**.  
+* Representa um aumento de **46 kt**, um crescimento **superior a 40%** de um ano para o outro.
 
-![Gráfico de Previsão](download.png)
+> **Diagnóstico do Modelo:**
+> O fator determinante apontado pelo modelo para essa variação foi a **queda acentuada na importação** do mesmo grupo de produtos no **Estado de São Paulo em Set/2025**, conforme ilustrado abaixo:
 
-Para fazer as previsões, o ML considera múltiplos fatores, como exportações agrícolas, importações desse mesmo produto e de outros em diferentes municípios, clima, etc, mas, desta vez, o fator apontado como o mais importante para essa referida alta foi a alta na importação desse mesmo produto no mesmo município, porém ocorrida no mês de 09/2024 em relação a 09/2025, detalhada no quadro a seguir:
 
-#### Importação:
-![Fator mais Importante](fator_mais_importante3.png)  
-
-Em outras circunstâncias, fatores muito mais inesperados poderiam surgir, mas, neste caso, foi apenas isso.
+![Fator mais Importante](fator_mais_importante_fertilizantes1.png)  
 
 ---
 
 ## Contato
+Para detalhes sobre a metodologia ou solicitações de otimização:
+
 **André Coutinho Bueno** Cientista de Dados e Fundador  
 [andre.bueno@quantimport.com.br](mailto:andre.bueno@quantimport.com.br)
